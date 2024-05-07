@@ -36,7 +36,7 @@ public class faculty extends AppCompatActivity {
         dataList = new ArrayList<>();
         dataList.add(new DataClass(R.drawable.vg));
         dataList.add(new DataClass(R.drawable.vg));
-        dataList.add(new DataClass(R.drawable.vg));
+        dataList.add(new DataClass(R.drawable.third));
 
         // Add more data items if needed
     }
